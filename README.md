@@ -21,4 +21,7 @@ Eighth-semester Bioengineering student at Universidad de Antioquia, Colombia, sp
 
 ---
 
+
 ### 📊 GitHub Activity
+
+![Juan's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=juanrizo22&theme=tokyonight)
